@@ -20,7 +20,7 @@ app.get('/storeUserDetails', (req, res) => {
     		if(error) {
     			console.log("Error is ==> "+error);
     		} else {
-    			console.log("Connected to the database!!"+error)
+    			console.log("Connected to the database !!"+error)
     		}
     });
 	var userSchema = new mongoose.Schema({
