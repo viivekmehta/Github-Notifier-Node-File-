@@ -14,6 +14,10 @@ const port = 3000
 app.use(bodyParser.json())
 app.use(cors());
 
+	app.get('/',(req, res) => {
+		return res.send("Hey the Github Notifier is connected !!")
+	});
+
 	app.post('/notify::webhookId',(req, res) => {
 		webhookId = req.params.webhookId;
 		var body = req.body;
