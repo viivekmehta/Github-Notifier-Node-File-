@@ -4,6 +4,8 @@
     <list default="true" id="1d098f0f-bb58-4963-ade6-15411a2b4d92" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/github.js" beforeDir="false" afterPath="$PROJECT_DIR$/github.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +73,15 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="440" y="202" key="#Inspections/0.23.1680.1027@0.23.1680.1027" timestamp="1580795617198" />
-    <state x="519" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1581270180269">
+    <state x="519" y="354" key="com.intellij.ide.util.TipDialog" timestamp="1583999192326">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="519" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1581270180269" />
-    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1581098547004" />
+    <state x="519" y="354" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1583999192326" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1583311242319" />
+    <state x="519" y="369" key="com.intellij.ide.util.TipDialog/1680.23.1920.1177/0.23.1680.1027@0.23.1680.1027" timestamp="1583212999987" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1582952007168">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582952007168" />
   </component>
 </project>
